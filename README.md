@@ -20,3 +20,6 @@ Added an uploaded file to repository.
 *	The main authors or maintainers of the project
 *	A link to the license
 *	Any additional acknowledgements
+
+
+How to close an issue using a pull request.
